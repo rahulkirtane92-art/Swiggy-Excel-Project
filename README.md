@@ -90,24 +90,4 @@ This project explores real-world food delivery data from Swiggy to uncover trend
 
 ---
 
-## 🚀 How to Use
 
-1. Download the Excel file from this repository
-2. Open it in **Microsoft Excel 2016 or later** (for full slicer support)
-3. Navigate to the **DASHBOARD** sheet to explore the interactive visuals
-4. Use the slicers to filter by city, category, or time period
-
----
-
-## 👤 Author
-
-**Your Name**
-📧 your.email@gmail.com
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-🐙 [GitHub Profile](https://github.com/yourusername)
-
----
-
-## 📜 License
-
-This project is open source and available for educational and portfolio purposes.
